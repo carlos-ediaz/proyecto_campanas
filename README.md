@@ -2,9 +2,9 @@
 
 Dashboard interactivo hecho con **Dash + Plotly** que explora el abandono de clientes de una empresa de telecomunicaciones y evalúa modelos de **clasificación binaria** para predecir si un cliente **abandona** o **se queda**.
 
-**Autores:** _[Nombre 1]_ y _[Nombre 2]_ · Programación para Ciencia de Datos · Universidad Compensar (tercer parcial)
+**Autores:** _Silvia Ángel_ y _Carlos Díaz_ · Programación para Ciencia de Datos · Universidad Compensar (tercer parcial)
 
-> **Sobre los datos.** El proyecto usa el dataset público **Telco Customer Churn** (7.043 clientes, 21 columnas). Fuente: _[pega aquí el enlace de la página del dataset en Kaggle]_ · Licencia: _[indica la licencia que figura en esa página]_.
+> **Sobre los datos.** El proyecto usa el dataset público **Telco Customer Churn** (7.043 clientes, 21 columnas). Fuente: _https://www.kaggle.com/datasets/blastchar/telco-customer-churn_.
 > Es un conjunto de datos de ejemplo de una sola empresa, así que el proyecto es de **uso académico** y sus resultados no deben usarse para decisiones reales de negocio.
 
 ## Problema y objetivo
